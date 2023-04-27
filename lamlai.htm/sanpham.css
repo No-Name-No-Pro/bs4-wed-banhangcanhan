@@ -1,0 +1,236 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/*header*/
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #B1B1B1;
+    left: 0px;
+    top: 0px;
+}
+.class-img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+}
+box{
+    margin-left: auto;
+}
+a{
+    background-color:aliceblue;
+}
+.chu{
+    font-size: 40px;
+    font-family: 'Jacques Francois';
+    text-align: center;
+    
+}
+/* sanpham */
+.sanpham{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 130px;
+}
+.sanpham1{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px -50px 0 350px;
+}
+.sanphamchitiet{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 0 100px 0 -350px;
+}
+.sanphamchitiet1{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 0 100px 0 -800px;
+}
+.sanphamchitiet2{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 66px 100px 0 -350px;
+}
+.sanphamchitiet3{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 66px 100px 0 -800px;
+}
+.sanphamchitiet4{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 66px 100px 0 500px;
+}
+.sanphamchitiet5{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 66px 100px 0 -50px;
+}
+.sanphamchitiet6{
+    width: 380px;
+    height: 449px;
+    border: 1px solid;
+    margin: 66px 100px 0 -50px;
+}
+.anhmaybay{
+    width: 380px;
+    height: 203.78px;
+    position: absolute;
+}
+.duoi-mut{
+    text-align: center;
+    border: none;
+}
+.duoi-nut1{
+    text-align: center;
+    border: none;
+    margin: 50px 50px 0 150px;
+}
+.duoi-nut2{
+    text-align: center;
+    border: none;
+    margin: 2px 50px 0 150px;
+}
+.sanpham-khungtren{
+    position: relative;
+}
+
+.khunggiua-ten{
+    /* margin-top: 10px; */
+    background-color: rgb(252, 252, 252);
+    width: 320px;
+    height: 50px;
+    margin: 0 30px 0 30px;
+    text-align: center;
+    padding-top: 30px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 190px;
+}
+
+.khugnduoi-chu{
+    padding-top: 270px;
+    margin: 0 20px 0 20px;
+}
+
+.duoi-icon{
+    text-align: center;
+    margin: -15px;
+    margin-left: 305px;
+}
+/* baivietlienquan */
+.baiviet-them{
+    border: 1px solid;
+    margin: -963px 0 0 950px;
+    width: 380px;
+    height: 900px;
+}
+.baiviet-them1{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'roboto';
+    background-color: #B1B1B1;
+    margin: 0 0 -15px 0;
+}
+.tinbaichitiet{
+    margin-top: 0 0 10px 0;
+    display: table;
+    justify-content: space-around;
+}
+.anhdongco{
+    width: 132.65px;
+    height: 201px;
+}
+.heading{
+    margin: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+.tinbai{
+    width: 379px;
+    height: 201px;
+    display: flex;
+    border: 1px solid;
+    margin: 0 0 20px 0;
+}
+.tinbai-phai1{
+    font-size: 22px;
+    margin-left: 10px;
+}
+.tinbai-phai2{
+    font-size: 22px;
+    margin: -15px 5px 10px 10px;
+    color: black;
+}
+.tinbai-phai3{
+    font-size: 16px;
+    margin: -15px 5px 0px 10px;
+}
+.baiviet-them2{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'roboto';
+}
+.ketnoi{
+    width: 379px;
+    height: 73px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'roboto';
+    background-color: #B1B1B1;
+    line-height: 73px;
+}
+.icon4{
+   font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+
+/* cuoibai */
+.cuoibai{
+    background-color: #B1B1B1;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    border: 1px solid;
+    margin-top: 50px;
+}
+.ten2{
+    margin: 25px 100px 0px 100px;
+}
+.cuoibai{
+    background-color: #B1B1B1;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    border: 1px solid;
+    margin-top: 50px;
+}
+.ten2{
+    margin: 25px 100px 0px 50px;
+}
+.icon2{
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 100px 0px 10px;
+    margin-left: 500px;
+}
